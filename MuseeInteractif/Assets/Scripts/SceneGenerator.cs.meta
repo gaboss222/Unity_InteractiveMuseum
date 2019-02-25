@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e684f216a8bfe2e49ace8d2aff8b5526
+timeCreated: 1522005832
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {instanceID: 0}
+  - roomPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
